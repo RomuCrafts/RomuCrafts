@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomuCrafts, just call me Romu for short
 - 👀 I’m interested in Indie Video Games specifically with some Triple AAA. Anime Concept Arts and Fashion Design
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Godot, Blender, GDScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Discord: ??? - Riot Games: Psionexus#4710
 - 😄 Pronouns: He/Him or They/Them.
